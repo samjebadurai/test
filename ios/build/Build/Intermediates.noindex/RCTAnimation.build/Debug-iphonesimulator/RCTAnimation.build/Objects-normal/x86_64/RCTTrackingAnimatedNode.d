@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.m \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/rinsoftcmnh/Documents/Projects/React/ReactNavApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h
